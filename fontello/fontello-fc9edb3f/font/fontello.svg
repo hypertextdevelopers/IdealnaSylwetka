@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2018 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="mail" unicode="&#xe800;" d="M0-29l324 342 176-100 176 100 324-342-1000 0z m0 114l0 414 254-147z m0 503l0 141 1000 0 0-141-500-285z m746-236l254 147 0-414z" horiz-adv-x="1000" />
+
+<glyph glyph-name="lock-open-filled" unicode="&#xe801;" d="M678 793q86 0 146-61t61-147l0-156q0-21-15-37t-36-16-37 16-16 37l0 156q0 44-30 74t-73 30q-44 0-75-31t-30-73l0-105 52 0q43 0 73-31t31-73l0-365q0-42-31-73t-73-31l-521 0q-44 0-74 31t-30 73l0 365q0 43 30 73t74 31l156 0 0-51 209 0 0 156q0 86 61 147t148 61z m-313-744q28 0 48 20t20 47-20 48-48 20-47-20-20-48 20-47 47-20z" horiz-adv-x="885" />
+</font>
+</defs>
+</svg>
